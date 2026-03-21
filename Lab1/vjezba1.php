@@ -4,7 +4,7 @@ $autor = "Jakša Mencl";
 
 echo "<h1>$naslov</h1>";
 echo "<p>Ovu stranicu izradio je <strong>$autor</strong>.</p>";
-echo '<a href="https://www.w3schools.com/php/default.asp" target="_blank>"Posjeti W3Schools.com</a>';
+echo '<a href="https://www.w3schools.com/php/default.asp" target="_blank">Posjeti W3Schools.com</a>';
 
 ?>
 
